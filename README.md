@@ -13,4 +13,4 @@
 
 **Databases, Cloud, and APIs**
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,docker,postman,gmail,figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,aws,docker,postman,gmail,figma)](https://skillicons.dev) 
